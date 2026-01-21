@@ -30,10 +30,10 @@ random_state=42
 
 ## 📁 Files:
 
-iris.csv ← Raw data
-iris_cleaned.csv ← Processed data
-Riya_code.ipynb ← Complete notebook
-README.md ← This file
+iris.csv ← Raw data...
+iris_cleaned.csv ← Processed data....
+Riya_code.ipynb ← Complete notebook...
+README.md ← This file...
 
 
 
